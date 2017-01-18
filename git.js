@@ -6,3 +6,4 @@ var obj = {
 	age:5,
 	isMale:true
 }
+//哈哈  我想出去玩啊啊啊
